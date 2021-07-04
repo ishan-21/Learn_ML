@@ -1,0 +1,26 @@
+digraph u{
+  1[label ="Python Syntax",href="http://localhost:8888/notebooks/Desktop/HBCSE%20Project/Learn_ML.ipynb"];
+  2[label ="Probability Theory"];
+  3[label ="Linear Algebra"];
+  4[label ="Numpy library"];
+  5[label ="pandas library"];
+  6[label ="Reading Histograms"];
+  7[label ="Supervised Learning"];
+  8[label ="Regression problem"];
+  9[label ="Classification Problem"];
+  10[label ="Model Representation"];
+  11[label ="Gradient Descent"];
+  12[label ="Training and test set"];
+  13[label ="KNN Classifier"];
+  14[label ="Validation Set"];
+  15[label ="Decision Tree Classifier"];
+  16[label ="Random Forest Classifier"];
+  1->8
+  3->8
+  4->8
+  7->8
+  1->9
+  3->9
+  7->9
+  4->9
+}
