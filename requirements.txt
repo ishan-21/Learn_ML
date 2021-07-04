@@ -1,1 +1,1 @@
-graphviz version 2.47.3
+graphviz==2.47.3
